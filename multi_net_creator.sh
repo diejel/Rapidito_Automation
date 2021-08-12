@@ -3,7 +3,7 @@
 #--------------------------------------------------------------------------------#
 #                  Shell Script for Multiple Network Objects Creation            #
 #--------------------------------------------------------------------------------#
-#  - Developed by: Diego Zuniga                            - Country: Peru       #
+#  - Developed by: Diego Cuba Zuniga                       - Country: Peru       #
 #  - Email: dcubazuniga@gmail.com                          - Version: v1.0.1     #
 #  - GitHub: https://github.com/diejel                                           #
 #--------------------------------------------------------------------------------#
