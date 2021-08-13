@@ -9,8 +9,10 @@ Shell script that allows you perform a simple paste on terminal to create severa
 
 ## How to use it? ##
 - This script works straightforward in your current working directory (CWD).
-- Run as following: `user@host~$ ./multi_network_creator.sh` 
-- Do not forget to verify the API is running: `user@host~$ run api status && api restart ` 
+- Run as following: 
+  -`user@host~$ ./multi_network_creator.sh` 
+- Do not forget to verify the API is running: 
+  - `user@host~$ run api status && api restart ` 
 
 ## How does it work? ##
 ### Simple paste of Network in CIDR format  ###
