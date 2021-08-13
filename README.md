@@ -29,3 +29,6 @@
 I use to upload some videos about what I'm currently developing in Shell script for CheckPoint Firewalls.
 - Here is one video about _"network objects creation"_ : https://www.linkedin.com/posts/diegocuba_checkpoint-cybersecurity-shellscript-activity-6827238327779934208-PFdJ 
 - Linkedin: https://linkedin.com/in/diegocuba
+
+## Share and help others ##
+If you like thi initiative and you find interesting my work in automation tasks, please share this work and help others. Feel free to contact me and leave your comments, suggest new ideas. Regards! 
