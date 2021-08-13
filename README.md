@@ -31,4 +31,4 @@ I use to upload some videos about what I'm currently developing in Shell script 
 - Linkedin: https://linkedin.com/in/diegocuba
 
 ## Share and help others ##
-If you like thi initiative and you find interesting my work in automation tasks, please share this work and help others. Feel free to contact me and leave your comments, suggest new ideas. Regards! 
+If you like this initiative and you find interesting my work in automation tasks, please share this work and help others. Feel free to contact me and leave your comments, suggest new ideas. Regards! 
