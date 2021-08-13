@@ -24,3 +24,8 @@
 ![video](https://user-images.githubusercontent.com/15971140/129293935-218a8743-917b-445f-8155-162b4c9c2204.gif)
 ### Verification of creation process in Object Explorer within Smart Console ###
 ![video2](https://user-images.githubusercontent.com/15971140/129294281-1c555ccd-13ee-4d04-958c-8eae962b894a.gif)
+
+## Connect with me ##
+I use to upload some videos about what I'm currently developing in Shell script for CheckPoint Firewalls.
+- Here is one video about _"network objects creation"_ : https://www.linkedin.com/posts/diegocuba_checkpoint-cybersecurity-shellscript-activity-6827238327779934208-PFdJ 
+- Linkedin: https://linkedin.com/in/diegocuba
