@@ -18,7 +18,7 @@
   - `user@host~$ bash ./multi_net_creator.sh` or `user@host~$ sh ./multi_net_creator.sh` 
 - Do not forget to verify the API is running: 
   - `user@host~$ run api status && api restart ` 
-- [Important]: When the script finish processing all the objects, do not forget to press [ENTER](↵), this is necessary for the script understand there will no exist more objects to be processed. 
+- *[Important]*: When the script finish processing all the objects, do not forget to press [ENTER](↵), this is necessary for the script understand there will no exist more objects to be processed. 
 
 ## How does it work? ##
 ### Simple paste of Network in CIDR format  ###
