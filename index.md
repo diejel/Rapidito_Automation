@@ -1,8 +1,3 @@
-## Welcome to GitHub Pages
-
-
-
-
 # r[API]dito Automation #
 ![rapidito-img](https://user-images.githubusercontent.com/15971140/129296008-cec4df7f-a828-4b1d-875d-9796e2e5f6f1.JPG)
 
