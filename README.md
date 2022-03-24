@@ -104,7 +104,7 @@ Example for : "Several Network Objects creation."
 ---
 
 ## Special Thanks
-I can not leave to give special thanks to my friend **@Nelson A Leite Jr**, due to the help with disruptives ideas, and new challenging situations that made me think '_out of the box_' and trust myself to continue this project.
+I can not leave to give special thanks to my friend **[@Nelson A Leite Jr](www.linkedin.com/in/nelson-a-leite-jr)**, due to the help with disruptives ideas, and new challenging situations that made me think '_out of the box_' and trust myself to continue this project.
 
 ## Connect with me ##
 - Linkedin: https://linkedin.com/in/diegocuba
