@@ -1,0 +1,30 @@
+#---------------------- Information from SmartConsole ----------------------------#
+ip_sms="1.2.3.4";
+tag_value="via-rapidito-script";
+
+
+#---------------------- About adding IP to blacklist from file -------------------#
+cfg_groupname_blacklist="serpro-blacklist-mt";
+cfg_color_blacklist="red";
+cfg_hostname_prefix_blacklist="serpro-blacklist";
+cfg_factor_blacklist=400;
+
+
+#--------------------- Adding by simple copy paste IP to be blocked/deny----------#
+cfg_groupname_deny="GRP-Blacklist-MT";
+cfg_color_deny=red ;
+cfg_hostname_prefix_deny="blacklist" ;
+
+#------------------------ Updatable BlockList ------------------------------------#
+
+cfg_updt_blocklist_group="serpro-blacklist-mt" ; 
+cfg_updt_prefix_blocklist="updatable-blacklist-serpro";
+cfg_updt_color_blocklist="blue";
+
+#--------------------- FQDN and NON-FQDN block -----------------------------------#
+fqdn_groupname="Domain-Blacklist" ;
+
+
+
+
+
