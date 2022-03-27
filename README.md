@@ -107,11 +107,11 @@ Example for : "Several Network Objects creation."
 I can not leave to give special thanks to my friend **[@Nelson A Leite Jr](https://www.linkedin.com/in/nelson-a-leite-jr)**, due to the help with disruptives ideas, and new challenging situations that made me think '_out of the box_' and trust myself to continue this project.
 
 ## Connect with me ##
-- [Linkedin: ](https://linkedin.com/in/diegocuba)
-- [Github: ](https://github.com/diejel)
-- [Linux Foundation: ](https://openprofile.dev/profile/dcubaz)
-- [Check Point CHECKMATES: ](https://community.checkpoint.com/t5/user/viewprofilepage/user-id/67305)
-- [Creddly: ](https://www.credly.com/users/diego-cuba-zuniga/badges)
+- [Linkedin ](https://linkedin.com/in/diegocuba)
+- [Github](https://github.com/diejel)
+- [Linux Foundation ](https://openprofile.dev/profile/dcubaz)
+- [Check Point CHECKMATES ](https://community.checkpoint.com/t5/user/viewprofilepage/user-id/67305)
+- [Creddly ](https://www.credly.com/users/diego-cuba-zuniga/badges)
   
 ## Share and help others ##
 If you like this initiative and you find interesting my work in automation tasks, please share this work and help others. Feel free to reach me oute and leave your comments, also suggest new ideas. Best Regards!
