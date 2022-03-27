@@ -88,14 +88,19 @@ Example for : "Several Network Objects creation."
 ![video2](https://user-images.githubusercontent.com/15971140/129294281-1c555ccd-13ee-4d04-958c-8eae962b894a.gif)
 
 ## Some other examples with videos.
+
 ### Several Network Objects creation
 - [Video Link](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6827238125153116160)
+
 ### Schedule Recursively Policy Installation in all existing Policies Packages.
 - [Video Link](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6827788466508632064)
+
 ### Addition of an extensive list of IP addresses to a blacklist group from file.
 - [Video Link](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6828887987909144576)
+
 ### Check IP Reputation (based on abusedbip) & Routine for removing IPs from blacklist.
 - [Video Link](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6829200844387344384)
+
 ### Creation of a CSV indicator file.
 - [Video Link](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6830343019972100096)
 
