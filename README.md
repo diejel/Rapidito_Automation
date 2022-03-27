@@ -91,15 +91,15 @@ Example for : "Several Network Objects creation."
 
 ## Some other examples with videos.
 ### Several Network Objects creation
-- [Link](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6827238125153116160?compact=1)
+- [Video Link](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6827238125153116160)
 ### Schedule Recursively Policy Installation in all existing Policies Packages.
-- https://www.linkedin.com/posts/diegocuba_linuxengineer-linux-sysadmin-activity-6827788481884942336-IlZu/?utm_source=linkedin_share&utm_medium=member_desktop_web
+- [Video Link](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6827788466508632064)
 ### Addition of an extensive list of IP addresses to a blacklist group from file.
-- https://www.linkedin.com/posts/diegocuba_serpro-serpro-blocklist-activity-6828887998311002112-1Yo-/?utm_source=linkedin_share&utm_medium=member_desktop_web
+- [Video Link](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6828887987909144576)
 ### Check IP Reputation (based on abusedbip) & Routine for removing IPs from blacklist.
-- https://www.linkedin.com/posts/diegocuba_script-regex-apikey-activity-6829200866118033408-Qg2x/?utm_source=linkedin_share&utm_medium=member_desktop_web
+- [Video Link](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6829200844387344384)
 ### Creation of a CSV indicator file.
-- https://www.linkedin.com/posts/diegocuba_cybersecurity-security-databreach-activity-6830343035495211008-bePu/?utm_source=linkedin_share&utm_medium=member_desktop_web
+- [Video Link](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6830343019972100096)
 
 ---
 
@@ -107,11 +107,11 @@ Example for : "Several Network Objects creation."
 I can not leave to give special thanks to my friend **[@Nelson A Leite Jr](https://www.linkedin.com/in/nelson-a-leite-jr)**, due to the help with disruptives ideas, and new challenging situations that made me think '_out of the box_' and trust myself to continue this project.
 
 ## Connect with me ##
-- Linkedin: https://linkedin.com/in/diegocuba
-- Github: https://github.com/diejel
-- Linux Foundation: https://openprofile.dev/profile/dcubaz
-- Check Point CHECKMATES: https://community.checkpoint.com/t5/user/viewprofilepage/user-id/67305
-- Creddly: https://www.credly.com/users/diego-cuba-zuniga/badges
+- [Linkedin: ](https://linkedin.com/in/diegocuba)
+- [Github: ](https://github.com/diejel)
+- [Linux Foundation: ](https://openprofile.dev/profile/dcubaz)
+- [Check Point CHECKMATES: ](https://community.checkpoint.com/t5/user/viewprofilepage/user-id/67305)
+- [Creddly: ](https://www.credly.com/users/diego-cuba-zuniga/badges)
   
 ## Share and help others ##
 If you like this initiative and you find interesting my work in automation tasks, please share this work and help others. Feel free to reach me oute and leave your comments, also suggest new ideas. Best Regards!
