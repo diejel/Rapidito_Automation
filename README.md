@@ -91,7 +91,7 @@ Example for : "Several Network Objects creation."
 
 ## Some other examples with videos.
 ### Several Network Objects creation
-- https://www.linkedin.com/posts/diegocuba_checkpoint-cybersecurity-shellscript-activity-6827238327779934208-PFdJ 
+- [Link](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6827238125153116160?compact=1)
 ### Schedule Recursively Policy Installation in all existing Policies Packages.
 - https://www.linkedin.com/posts/diegocuba_linuxengineer-linux-sysadmin-activity-6827788481884942336-IlZu/?utm_source=linkedin_share&utm_medium=member_desktop_web
 ### Addition of an extensive list of IP addresses to a blacklist group from file.
